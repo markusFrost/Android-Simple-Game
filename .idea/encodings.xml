@@ -2,5 +2,6 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/app/src/main/java/rgb_circle_name/ru/whitemonkteam/funny_time/rgbcircle/CanvasView.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/rgb_circle_name/ru/whitemonkteam/funny_time/rgbcircle/GameManager.java" charset="UTF-8" />
   </component>
 </project>
