@@ -7,7 +7,7 @@ import android.util.AttributeSet;
 import android.view.View;
 
 /**
- * Created by Андрей on 16.11.2015.
+ * Created by РђРЅРґСЂРµР№ on 16.11.2015.
  */
 public class CanvasView extends View
 {
@@ -15,7 +15,7 @@ public class CanvasView extends View
     public CanvasView(Context context, AttributeSet attrs)
     {
         super(context, attrs);
-        initPaint(); // проинициализировать кисточку для рисвоания
+        initPaint(); // РїСЂРѕРёРЅРёС†РёР°Р»РёР·РёСЂРѕРІР°С‚СЊ РєРёСЃС‚РѕС‡РєСѓ
     }
 
     private void initPaint()
